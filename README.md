@@ -1,9 +1,9 @@
-# Literature on Acceleration on Homomorphic Encryption
+# Literature on Homomorphic Encryption Acceleration
 
 A reading list for Acceleration on Homomorphic Encryption, including but not limited to related research on software and hardware level. The list covers related papers, conferences, tools, books, blogs, courses and other resources. We have a [team of Maintaners](#Maintainers) responsible for maintainance, meanwhile also welcome contributions from anyone.
 
 Literatures in this page are arranged from a classification perspective, including the following topics:
-- [Literature on Graph Neural Networks Acceleration](#literature-on-graph-neural-networks-acceleration)
+- [Literature on Graph Neural Networks Acceleration](#Literature-on-Homomorphic-Encryption-Acceleration)
   - [Hardware Acceleration for Homomorphic Encryption](#Hardware-Acceleration-for-Homomorphic-Encryption)
   - [System Designs for Homomorphic Encryption](#System-Designs-for-Homomorphic-Encryption)
   - [Algorithmic Acceleration for Homomorphic Encryption](#Algorithmic-Acceleration-for-Homomorphic-Encryption)
