@@ -15,6 +15,7 @@ Conferences and workshops
 - MICRO (The International Symposium on Microarchitecture)
 - ISCAS (International Symposium on Circuits And Systems)
 - TCAS-I (IEEE Transactions on Circuits and Systems I)
+- HPEC (IEEE High Performance Extreme Computing)
 
 ### Machine Learning
 - ICML (International Conference on Machine Learning)
@@ -60,5 +61,6 @@ Conferences and workshops
 - TODS (ACM Transactions on Database Systems)
 - TCAD (IEEE Transactions on Computer-Aided Design of Integrated Circuits And System)
 - TVLSI (IEEE Transactions on Very Large Scale Integration (VLSI) Systems)
+- TETC (IEEE Transactions on Emerging Topics in Computing)
 - JPDC (Journal of Parallel and Distributed Computing)
 

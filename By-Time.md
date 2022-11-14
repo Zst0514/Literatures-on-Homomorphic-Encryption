@@ -9,6 +9,9 @@ Deep graph learning acceleration papers in a chronological order.
 ### 2022
 
 * [**TCAD 2022**] [**BGV**] Efficient FHE Radix-2 Arithmetic Operations Based on Redundant Encoding. *Hou Z, Shaojun Wei, Leibo Liu, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9502150)
+* [**TVLSI 2022**] [**BFV, CKKS**] A Highly Unified Reconfigurable Multicore Architecture to Speed Up NTT/INTT for Homomorphic Polynomial Multiplication. *Su Y, Yang B, Liu Y, et al.*  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9761841/)
+* [**TVLSI 2022**] [**BFV**] Efficient Homomorphic Convolution Designs on FPGA for Secure Inference.*Xiao Hu, Minghao Li, Zhongfeng Wang, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9866023)
+* [**TVLSI 2022**] [**AES**] VLSI Design of Advanced-Features AES Cryptoprocessor in the Framework of the European Processor Initiative.*Nannipieri P, Matteo S, Fanucci L, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9631958/)
 
 
 ### 2021
@@ -18,6 +21,8 @@ Deep graph learning acceleration papers in a chronological order.
 ### 2020
 
 * [**TCAD 2020**] [**FHE**] Efficient Comparison and Addition for FHE With Weighted Computational Complexity Model. *Neng Zhang, Shaojun Wei, Leibo Liu, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9224873/)
+* [**TVLSI 2020**] [**BFV**] Design and Implementation of Encryption/Decryption Architectures for BFV Homomorphic Encryption Scheme. *Ahmet Can Mert , ErdinÖztürk, and Erkay Savas* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8866755)
+* [**TVLSI 2020**] [**BFV**] Computing-in-Memory for Performance and Energy-Efficient Homomorphic Encryption.*Reis D,  Takeshita J, Xiaobo Sharon Hu.* [[Paper]](https://ieeexplore.ieee.org/document/9179010)
 
 
 
@@ -40,9 +45,6 @@ Deep graph learning acceleration papers in a chronological order.
 * [**ASPLOS 2022**] [**CKKS, BFV**] CHOCO: Client-Optimized Algorithms and Acceleration for Encrypted Compute Offloading *McKenzie van der Hagen, Brandon Lucia.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)
 * [**MICRO 2022**] [**CKKS**] ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse.*Kim J, Lee G, Ahn J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9923889/)
 * [**ESSCIRC 2022**] [**PQC**] Configurable Energy-Efficient Lattice-Based PostQuantum Cryptography Processor for IoT Devices. *Kim B, Park J, Sim J, et al* [[Paper]](https://ieeexplore.ieee.org/document/9911531/)
-* [**TVLSI 2022**] [**BFV, CKKS**] A Highly Unified Reconfigurable Multicore Architecture to Speed Up NTT/INTT for Homomorphic Polynomial Multiplication. *Su Y, Yang B, Liu Y, et al.*  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9761841/)
-* [**TVLSI 2022**] [**BFV**] Efficient Homomorphic Convolution Designs on FPGA for Secure Inference.*Xiao Hu, Minghao Li, Zhongfeng Wang, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9866023)
-* [**TVLSI 2022**] [**AES**] VLSI Design of Advanced-Features AES Cryptoprocessor in the Framework of the European Processor Initiative.*Nannipieri P, Matteo S, Fanucci L, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9631958/)
 * [**TCAS-I 2022**] [**Polynomial Multiplication**] Faster NTRU on ARM Cortex-M4 With TMVP-Based Multiplication. *Irem Keskinkurt Paksoy, Murat Cenk.* [[Paper]](https://ieeexplore.ieee.org/document/9835023/) 
 * [**IEEE proceedings 2022**] Survey on Fully Homomorphic Encryption, Theory, and Applications.*Chiara M, Victor S, Marc M, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9910347)
 * [**CSUR 2022**] A Survey on Homomorphic Encryption Schemes_Theory and Implementation. *Abbas Acar, Hidayet Aksu, A. Selcuk Uluagac.* [[Paper]]( https://dl.acm.org/doi/10.1145/3214303)
@@ -65,8 +67,6 @@ Deep graph learning acceleration papers in a chronological order.
 * [**DAC 2020**] [**NTT**] CryptoPIM: In-memory Acceleration for Lattice-based Cryptographic Hardware. *Nejatollahi H, Gupta S, Dut N, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9218730)
 * [**DAC 2020**] [**TFHE**] ROMEO: Conversion and Evaluation of HDL Designs in the Encrypted Domain.*Charles Gouert and Nektarios Georgios Tsoutsos.* [[Paper]](https://ieeexplore.ieee.org/document/9218579/)
 * [**ASPLOS 2020**] [**CKKS**] HEAX: An Architecture for Computing on Encrypted Data.*M. Sadegh Riazi, Blake Pelton, Wei Dai, et al.* [[Paper]](https://arxiv.org/abs/1909.09731)
-* [**TVLSI 2020**] [**BFV**] Design and Implementation of Encryption/Decryption Architectures for BFV Homomorphic Encryption Scheme. *Ahmet Can Mert , ErdinÖztürk, and Erkay Savas* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8866755)
-* [**TVLSI 2020**] [**BFV**] Computing-in-Memory for Performance and Energy-Efficient Homomorphic Encryption.*Reis D,  Takeshita J, Xiaobo Sharon Hu.* [[Paper]](https://ieeexplore.ieee.org/document/9179010)
 * [**ISCAS 2020**] [**AES**] Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor.*Utsav Banerjee, Siddharth Das, Anantha P. Chandrakasan* [[Paper]](https://ieeexplore.ieee.org/document/9180550)
 * [**ISCAS 2020**] [**BGV**] VLSI Architecture of Polynomial Multiplication for BGV Fully Homomorphic Encryption.*Hsu H and Shieh M* [[Paper]](https://arxiv.org/pdf/2203.10428.pdf) [](https://ieeexplore.ieee.org/document/9181192/)
 * [**TCAS-I 2020**] [**Modular Multiplication**] Lattice-Based Cryptoprocessor for CCA-Secure Identity-Based Encryption. *Claudia P. Rentería-Mejía, Jaime Velasco-Medina* [[Paper]](https://ieeexplore.ieee.org/document/9046808)
