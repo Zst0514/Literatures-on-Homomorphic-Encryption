@@ -4,7 +4,7 @@ A reading list for Acceleration on Homomorphic Encryption, including but not lim
 
 Literatures in this page are arranged from a classification perspective, including the following topics:
 - [Literature on Graph Neural Networks Acceleration](#literature-on-graph-neural-networks-acceleration)
-  - [Hardware](#Hardware)
+  - [Hardware Acceleration for Homomorphic Encryption](#Hardware Acceleration for Homomorphic Encryption)
   - [Soft/Hardware Codesign for Homomorphic Encryption](#Soft/Hardware Codesign for Homomorphic Encryption)
   - [Algorithmic Acceleration for Homomorphic Encryption](#Algorithmic Acceleration for Homomorphic Encryption)
   - [Surveys and Performance Analysis on Homomorphic Encryption](#Surveys and Performance Analysis on Homomorphic Encryption)
@@ -15,7 +15,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 
 ---
-## Hardware
+## Hardware Acceleration for Homomorphic Encryption
 
 * [**HPCA 2019**] FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.
   
