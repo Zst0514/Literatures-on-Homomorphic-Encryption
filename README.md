@@ -148,27 +148,27 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ## System Designs for Homomorphic Encryption
 
 
-* [**DAC 2021**] Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post Quantum Cryptography Through a Novel Lookup-Table-Like Method. 
+* [**DAC 2021**] [**Polynomial Multiplication**] Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post Quantum Cryptography Through a Novel Lookup-Table-Like Method. 
 
   >*Jiafeng Xie,Pengzhou He, Wujie Wen.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9586151/)
   
-* [**DATE 2022**] coxHE: A software-hardware co-design framework for FPGA acceleration of homomorphic computation.
+* [**DATE 2022**] [**CKKS**] coxHE: A software-hardware co-design framework for FPGA acceleration of homomorphic computation.
 
   >*Han M, Zhu Y, Lei Ju, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9774559)
   
-* [**ISCA 2022**] Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques. 
+* [**ISCA 2022**] [**CKKS**] Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques. 
 
   >*Gong Z, Ji H, Yao Y, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527403)
   
-* [**MICRO 2022**] ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse.
+* [**MICRO 2022**] [**CKKS**] ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse.
 
   >*Kim J, Lee G, Ahn J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9923889/)
   
-* [**ESSCIRC 2022**] Configurable Energy-Efficient Lattice-Based PostQuantum Cryptography Processor for IoT Devices.
+* [**ESSCIRC 2022**] [**PQC**] Configurable Energy-Efficient Lattice-Based PostQuantum Cryptography Processor for IoT Devices.
 
   >*Kim B, Park J, Sim J, et al* [[Paper]](https://ieeexplore.ieee.org/document/9911531/)
   
-* [**ISCAS 2020**] Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor.
+* [**ISCAS 2020**] [**AES**] Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor.
 
   >*Utsav Banerjee, Siddharth Das, Anantha P. Chandrakasan* [[Paper]](https://ieeexplore.ieee.org/document/9180550)
 
@@ -176,47 +176,47 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ## Algorithmic Acceleration for Homomorphic Encryption
 
 
-* [**DAC 2020**] ROMEO: Conversion and Evaluation of HDL Designs in the Encrypted Domain.
+* [**DAC 2020**] [**TFHE**] ROMEO: Conversion and Evaluation of HDL Designs in the Encrypted Domain.
 
   >*Charles Gouert and Nektarios Georgios Tsoutsos.* [[Paper]](https://ieeexplore.ieee.org/document/9218579/)
 
-* [**HPCA 2021**] Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference.
+* [**HPCA 2021**] [**BFV**] Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference.
 
   >*Reagen B, Choi W, Brooks D, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9407118)
 
-* [**DATE 2021**] Real-time Private Membership Test using Homomorphic Encryption.
+* [**DATE 2021**] [**BFV**] Real-time Private Membership Test using Homomorphic Encryption.
   
   >*Eduardo Chielle, Homer Gamil, Michail Maniatakos.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)
   
-* [**TCAD 2020**] Efficient Comparison and Addition for FHE With Weighted Computational Complexity Model.
+* [**TCAD 2020**] [**FHE**] Efficient Comparison and Addition for FHE With Weighted Computational Complexity Model.
   
   >*Neng Zhang, Shaojun Wei, Leibo Liu, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9224873/)
   
-* [**TCAD 2022**] Efficient FHE Radix-2 Arithmetic Operations Based on Redundant Encoding. 
+* [**TCAD 2022**] [**BGV**] Efficient FHE Radix-2 Arithmetic Operations Based on Redundant Encoding. 
   
   >*Hou Z, Shaojun Wei, Leibo Liu, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9502150)
   
-* [**ICCAD 2022**] Accelerating Fully Homomorphic Encryption by Bridging Modular and Bit-Level Arithmetic.
+* [**ICCAD 2022**] [**BFV, BGV, CKKS**]Accelerating Fully Homomorphic Encryption by Bridging Modular and Bit-Level Arithmetic.
   
   >*Chielle E, Mazonka O, Maniatakos M* [[Paper]](https://arxiv.org/abs/2204.12201)
   
-* [**ISCAS 2020**] VLSI Architecture of Polynomial Multiplication for BGV Fully Homomorphic Encryption.
+* [**ISCAS 2020**] [**BGV**] VLSI Architecture of Polynomial Multiplication for BGV Fully Homomorphic Encryption.
   
   >*Hsu H and Shieh M* [[Paper]](https://arxiv.org/pdf/2203.10428.pdf) [](https://ieeexplore.ieee.org/document/9181192/)
   
-* [**ISCAS 2021**] On Compare-and-Swap Optimization for Fully Homomorphic Encrypted Data.
+* [**ISCAS 2021**] [**BGV**] On Compare-and-Swap Optimization for Fully Homomorphic Encrypted Data.
   
   >*Chien-Chih Huang, Jyun-Neng Ji and Ming-Der Shieh.* [[Paper]](https://ieeexplore.ieee.org/document/9401078/)
   
-* [**TCAS-I 2020**] Design and Implementation of a Low-Latency Modular Multiplication Algorithm.
+* [**TCAS-I 2020**] [**Modular Multiplication**] Design and Implementation of a Low-Latency Modular Multiplication Algorithm.
   
   >*Erdinç Öztürk*  [[Paper]](https://ieeexplore.ieee.org/document/8968620)
   
-* [**TCAS-I 2021**] Radix-2w Arithmetic for Scalar Multiplication in Elliptic Curve Cryptography. 
+* [**TCAS-I 2021**] [**Scalar Multiplication**] Radix-2w Arithmetic for Scalar Multiplication in Elliptic Curve Cryptography. 
   
   >*Abdelkrim Kamel Oudjida, Ahmed Liacha.* [[Paper]](https://ieeexplore.ieee.org/document/9349769)
   
-* [**TCAS-I 2022**] Faster NTRU on ARM Cortex-M4 With TMVP-Based Multiplication. 
+* [**TCAS-I 2022**] [**Polynomial Multiplication**] Faster NTRU on ARM Cortex-M4 With TMVP-Based Multiplication. 
   
   >*Irem Keskinkurt Paksoy, Murat Cenk.* [[Paper]](https://ieeexplore.ieee.org/document/9835023/) 
 
