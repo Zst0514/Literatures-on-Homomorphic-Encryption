@@ -4,7 +4,7 @@ A reading list for Acceleration on Homomorphic Encryption, including but not lim
 
 Literatures in this page are arranged from a classification perspective, including the following topics:
 - [Literature on Graph Neural Networks Acceleration](#literature-on-graph-neural-networks-acceleration)
-  - [Hardware Acceleration for Homomorphic Encryption](#Hardware Acceleration for Homomorphic Encryption)
+  - [Hardware](#Hardware)
   - [Soft/Hardware Codesign for Homomorphic Encryption](#Soft/Hardware Codesign for Homomorphic Encryption)
   - [Algorithmic Acceleration for Homomorphic Encryption](#Algorithmic Acceleration for Homomorphic Encryption)
   - [Surveys and Performance Analysis on Homomorphic Encryption](#Surveys and Performance Analysis on Homomorphic Encryption)
@@ -15,7 +15,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 
 ---
-## Hardware Acceleration for Homomorphic Encryption
+## Hardware
 
 * [**HPCA 2019**] FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.
   
@@ -466,6 +466,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**KDD 2020**] Deep Graph Learning: Foundations, Advances and Applications. 
   >*Rong Y, Xu T, Huang J, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3406474)
 * [**TKDE 2020**] Deep Learning on Graphs: A Survey. 
+  
   >*Zhang Z, Cui P, Zhu W.*[[paper]](https://ieeexplore.ieee.org/abstract/document/9039675)
 * [**CAL 2020**] Characterizing and Understanding GCNs on GPU. 
   >*Yan M, Chen Z, Deng L, et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
@@ -483,7 +484,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 
 ---
-## Maintainers
+###Maintainers
 
 - Ao Zhou, Beihang University. [[GitHub]](https://github.com/ZhouAo-ZA)
 - Yingjie Qi, Beihang University. [[GitHub]](https://github.com/Kevin7Qi)
