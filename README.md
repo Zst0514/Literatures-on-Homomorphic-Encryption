@@ -31,7 +31,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
 * [**ISCA 2022**] CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data.
   
-  >*Samardzic N, Feldmann A, Krastev A, et al.* [[Paper]](CraterLake: a hardware accelerator for efficient unbounded computation on encrypted data)
+  >*Samardzic N, Feldmann A, Krastev A, et al.* [[Paper]](https://people.csail.mit.edu/devadas/pubs/craterlake.pdf)
   
 * [**DATE 2020**] A Flexible and Scalable NTT Hardware:Applications from Homomorphically Encrypted Deep Learning to Post-Quantum Cryptography.
   
@@ -83,7 +83,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
 * [**ASPLOS 2020**] HEAX: An Architecture for Computing on Encrypted Data.
   
-  >*M. Sadegh Riazi, Blake Pelton, Wei Dai, et al.* [[Paper]](HEAX: An Architecture for Computing on Encrypted Data)
+  >*M. Sadegh Riazi, Blake Pelton, Wei Dai, et al.* [[Paper]](https://arxiv.org/abs/1909.09731)
   
 * [**ASPLOS 2022**] CHOCO: Client-Optimized Algorithms and Acceleration for Encrypted Compute Offloading
   
