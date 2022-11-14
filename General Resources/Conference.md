@@ -1,6 +1,6 @@
-# Conference
+# Conference and Workshops
 
-## Conference
+## Conference 
 ---
 Conferences and workshops
 ### System
