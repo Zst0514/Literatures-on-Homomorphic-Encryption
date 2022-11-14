@@ -5,7 +5,7 @@ A reading list for Acceleration on Homomorphic Encryption, including but not lim
 Literatures in this page are arranged from a classification perspective, including the following topics:
 - [Literature on Graph Neural Networks Acceleration](#literature-on-graph-neural-networks-acceleration)
   - [Hardware Acceleration for Homomorphic Encryption](#Hardware-Acceleration-for-Homomorphic-Encryption)
-  - [Soft/Hardware Codesign for Homomorphic Encryption](#Soft-/-Hardware-codesign-for-Homomorphic-Encryption)
+  - [System Designs for Homomorphic Encryption](#System-Designs-for-Homomorphic-Encryption)
   - [Algorithmic Acceleration for Homomorphic Encryption](#Algorithmic-Acceleration-for-Homomorphic-Encryption)
   - [Surveys and Performance Analysis on Homomorphic Encryption](#Surveys-and-Performance-Analysis-on-Homomorphic-Encryption)
   - [Maintainers](#maintainers)
@@ -153,7 +153,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 
 ---
-## Soft/Hardware Codesign for Homomorphic Encryption
+## System Designs for Homomorphic Encryption
 
 
 * [**DAC 2021**] Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post Quantum Cryptography Through a Novel Lookup-Table-Like Method. 
