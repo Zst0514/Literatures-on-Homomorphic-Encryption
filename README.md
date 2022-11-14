@@ -21,7 +21,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
   >*Sujoy S, Furkan, T, Kimmo J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/8675244)
   
-* [**ISSCC 2022**] [**CKKS**] A_28nm_48KOPS_3.4J_Op_Agile_Crypto-Processor_for_Post Quantum_Cryptograph_on_Multi-Mathematical_Problems.
+* [**ISSCC 2022**] [**CKKS**] A 28nm 48KOPS 3.4J Op Agile Crypto-Processor for Post Quantum Cryptograph on Multi Mathematical Problems.
   
   >*Zhu Y, Wei S, Liu L et al.* [[Paper]](https://ieeexplore.ieee.org/document/9731783)
   
