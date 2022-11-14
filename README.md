@@ -15,7 +15,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 
 ---
-## Hardware_Acceleration_for_Homomorphic_Encryption
+## Hardware Acceleration for Homomorphic Encryption
 
 * [**HPCA 2019**] FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.
   
