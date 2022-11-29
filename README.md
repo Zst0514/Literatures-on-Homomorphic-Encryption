@@ -140,8 +140,34 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**Computing Science Cryptography and Security 2020**] [**Paillier**] FPGA-Based Hardware Accelerator of Homomorphic Encryption for Efficient Federated Learning.
 
   >*Zhaoxiong Yang, Shuihai Hu, Kai Chen.* [[Paper]](https://arxiv.org/abs/2007.10560)
+  
+* [**HEPC 2014**] [**FHE**] An FPGA co-processor implementation of Homomorphic Encryption.
 
+  >*David B, John G, Kurt R, et al.* [[Paper]](https://ieee-hpec.org/2014/CD/index_htm_files/FinalPapers/38.pdf)
 
+* [**ASAP 2015**] [**Bootstrapping**] Accelerating Bootstrapping in FHEW using GPUs.
+
+  >*Moon L, Yongje L, Jung H*et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/7245720)
+
+* [**DSD 2019**] [**NTT**] Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture.
+
+  >*Ahmet Can Mert, Erdinc Ozturk, Erkay Savas.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8875148)
+
+* [**FCCM  2020**] [**NTT, Bootstrapping**] Hardware Architecture of a Number Theoretic Transform for a Bootstrappable RNS-based Homomorphic Encryption Scheme.
+
+  >*Sunwoong K, Keewoo L, Wonhee C, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9114594)
+
+* [**T-C 2020**] [**FHE**] HEAWS: An Accelerator for Homomorphic Encryption on the Amazon AWS FPGA.
+
+  >*Furkan Turan, Sujoy Sinha Roy, and Ingrid Verbauwhede* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9072637)
+
+* [**T-C 2015**] [**FHE**] Accelerating Fully Homomorphic Encryption in Hardware.
+
+  >*Yarkın Doroz, Erdinc Ozturk, and Berk Sunar* [[Paper]](https://ieeexplore.ieee.org/abstract/document/6871300)
+
+* [**TETCI 2017**] [**FHE, CRT**] Designing an FPGA-Accelerated Homomorphic Encryption Co-Processor.,
+
+  >*David C, Kurt Rf and Daniel S.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/6871300)
 
 
 ---
@@ -173,7 +199,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Utsav Banerjee, Siddharth Das, Anantha P. Chandrakasan* [[Paper]](https://ieeexplore.ieee.org/document/9180550)
 
 ---
-## Algorithmic Acceleration for Homomorphic Encryption
+## Algorithmic Acceleration and Application for Homomorphic Encryption
 
 
 * [**DAC 2020**] [**TFHE**] ROMEO: Conversion and Evaluation of HDL Designs in the Encrypted Domain.
@@ -219,6 +245,102 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**TCAS-I 2022**] [**Polynomial Multiplication**] Faster NTRU on ARM Cortex-M4 With TMVP-Based Multiplication. 
   
   >*Irem Keskinkurt Paksoy, Murat Cenk.* [[Paper]](https://ieeexplore.ieee.org/document/9835023/) 
+  
+* [**AAAI 2019**] [**FHE**] Logistic Regression on Homomorphic Encrypted Data at Scale.
+  
+  >*Kyoohyung H, Seungwan H, Jung C.* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5000) 
+  
+* [**AsiaCrypt 2022**] [**Bootstrapping**] High-Precision Bootstrapping for Approximate Homomorphic Encryption by Error Variance Minimization.
+  
+  >*Yongwoo L,  Joon-Woo L, Young K, et al.* [[Paper]](https://iacr.org/submit/files/slides/2022/eurocrypt/eurocrypt2022/239/slides.pdf) 
+  
+* [**CHES 2018**] [**BFV**] High-Performance FV Somewhat Homomorphic Encryption on GPUs: An Implementation using CUDA.
+  
+  >*Ahmad B, Bharadwaj V, Chan M, et al.* [[Paper]](https://www.researchgate.net/profile/Ahmad-Al-Badawi/publication/346706228_High-Performance_FV_Somewhat_Homomorphic_Encryption_on_GPUs_An_Implementation_using_CUDA/links/6131df9238818c2eaf7ae5c9/High-Performance-FV-Somewhat-Homomorphic-Encryption-on-GPUs-An-Implementation-using-CUDA.pdf) 
+  
+* [**CHES 2021**] [**Bootstrapping**] Over 100x Faster Bootstrapping in Fully Homomorphic Encryption through Memory-centric Optimization with GPUs.
+  
+  >*Wonkyung J, Sangpyo K, Jung A, et al.* [[Paper]](https://tches.iacr.org/index.php/TCHES/article/view/9062) 
+  
+* [**CHES 2021**] [**BFV**] Over 100x Faster Bootstrapping in Fully Homomorphic Encryption through Memory-centric Optimization with GPUs.
+  
+  >*Wonkyung J, Sangpyo K, Jung A, et al.* [[Paper]](https://tches.iacr.org/index.php/TCHES/article/view/9062) 
+  
+* [**Crypto 2013**] [**Bootstrapping**] Practical Bootstrapping in Quasilinear Time.
+  
+  >*Jacob Alperin-Sheriff and Chris Peikert* [[Paper]](https://web.eecs.umich.edu/~cpeikert/pubs/simpleboot.pdf) 
+  
+* [**Crypto 2021**] [**BGV**] Faster Homomorphic Linear Transformations in HElib.
+  
+  >*Shai Halevi and Victor Shoup.* [[Paper]](https://www.iacr.org/archive/crypto2018/10993198/10993198.pdf) 
+  
+* [**EUPOCRYPT 2018**] [**Bootstrapping**] Homomorphic Lower Digits Removal and Improved FHE Bootstrapping.
+  
+  >*Hao Chen and Kyoohyung Han* [[Paper]](https://www.researchgate.net/profile/Han-Kyoohyung/publication/324110348_Homomorphic_Lower_Digits_Removal_and_Improved_FHE_Bootstrapping/links/5b57d4e90f7e9bc79a60a2e0/Homomorphic-Lower-Digits-Removal-and-Improved-FHE-Bootstrapping.pdf) 
+  
+* [**EUPOCRYPT 2018**] [**Bootstrapping**] Bootstrapping for Approximate Homomorphic Encryption.
+
+  >*Jung C, Andrey K, Yongsoo S, et al.* [[Paper]](https://ir.cwi.nl/pub/23686/23686B.pdf) 
+
+* [**EUPOCRYPT 2017**] [**CKKS**] Homomorphic Encryption for Arithmetic of Approximate Numbers.
+  
+  >*Jung C, Andrey K, Yongsoo S, et al.* [[Paper]](https://eprint.iacr.org/2016/421.pdf?ref=https://codemonkey.link) 
+  
+* [**EUPOCRYPT 2015**] [**FHEW**] FHEW: Bootstrapping Homomorphic Encryption in less than a second.
+
+  >*Leo D, Daniele M, Centrum W, et al.* [[Paper]](https://ir.cwi.nl/pub/23686/23686B.pdf) 
+
+* [**HOST 2020**] [**TFHE**] CPU and GPU Accelerated Fully Homomorphic Encryption.
+
+  >*Toufifique M, Md M and Noman M* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9300288/) 
+
+* [**IEEE Access 2020**] [**FHE**] PrivFT: Private and Fast Text Classification With Homomorphic Encryption.
+
+  >*Ahmad B, Louie H, Chan M, et al. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9296754) 
+
+* [**IEEE Access 2020**] [**FHE**] Privacy-Preserving Machine Learning With Fully Homomorphic Encryption for Deep Neural Network.
+
+  >*Joon-woo L, Hyungchul K, Jong-Seon N, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9734024) 
+
+* [**IISWC 2020**] [**NTT, Bootstrapping**] Accelerating Number Theoretic Transformations for Bootstrappable Homomorphic Encryption on GPUs.
+
+  >*Sangpyo K, Wonkyung J, Jaiyoung P, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9251245) 
+
+* [**JMIR 2018**] [**FHE, Logistic Regression**] Secure Logistic Regression Based on Homomorphic Encryption: Design and Evaluation.
+
+  >*Miran K, Yongsoo S, Shuang Wang, et al.* [[Paper]](https://www.researchgate.net/profile/Yongsoo-Song/publication/324583361_Secure_Logistic_Regression_Based_on_Homomorphic_Encryption_Design_and_Evaluation/links/5bd3e4b992851c6b27920987/Secure-Logistic-Regression-Based-on-Homomorphic-Encryption-Design-and-Evaluation.pdf) 
+
+* [**PLDI 2019**] [**FHE**] CHET: An Optimizing Compiler for Fully-Homomorphic Neural-Network Inferencing.
+
+  >*Roshan D, Olli S, Todd M, et al.* [[Paper]](https://www.cs.utexas.edu/~roshan/CHET.pdf) 
+
+* [**Reconfig 2019**] [**FHE, Modular Multiplier**] FPGA-based Accelerators of Fully Pipelined Modular Multipliers for Homomorphic Encryption.
+
+  >*Sunwoong K, Keewoo L, Wonhee C, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8994793/) 
+
+* [**SAC 2018**] [**BFV, RNS**] A Full RNS Variant of Approximate Homomorphic Encryption.
+
+  >*Jung C , Kyoohyung H, Yongsoo S, et al.* [[Paper]](https://www.researchgate.net/profile/Han-Kyoohyung/publication/330341753_A_Full_RNS_Variant_of_Approximate_Homomorphic_Encryption_25th_International_Conference_Calgary_AB_Canada_August_15-17_2018_Revised_Selected_Papers/links/5cd27fdaa6fdccc9dd93a38a/A-Full-RNS-Variant-of-Approximate-Homomorphic-Encryption-25th-International-Conference-Calgary-AB-Canada-August-15-17-2018-Revised-Selected-Papers.pdf) 
+
+* [**SAC 2015**] [**FHE, Logistic Regression**] A Full RNS Variant of FV like Somewhat Homomorphic Encryption Schemes.
+
+  >*Jean-Claude B, Julien E, Vincent Z, et al.* [[Paper]](https://webusers.imj-prg.fr/~jean-claude.bajard/MesPublis/SAC2016.pdf) 
+
+* [**TETCI 2019**] [**BFV, RNS**] Implementation and Performance Evaluation of RNS Variants of the BFV Homomorphic Encryption Scheme.
+
+  >*Ahmad B, Yuriy P, Kurt R, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8657794/)
+
+* [**WAHC 2021**] [**FHE**] Intel HEXL: Accelerating Homomorphic Encryption with Intel AVX512-IFMA52.
+
+  >*Fabian B, Sejun K, Vinodh G, et al.* [[Paper]](https://fabianboemer.com/files/intel-hexl.pdf)
+
+* [**IACR Cryptology ePrint Archive 2018**] [**FHE**] Homomorphic Encryption Standard.
+
+  >*Martin A, Melissa C, Vinod V, et al* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
+
+* [**IACR Cryptology ePrint Archive 2015**] [**FHE**] A Guide to Fully Homomorphic Encryption.
+
+  >*Frederik A, Colin B, Martin S, et al.* [[Paper]](https://eprint.iacr.org/2015/1192)
 
 
 
@@ -233,8 +355,22 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**CSUR 2022**] A Survey on Homomorphic Encryption Schemes_Theory and Implementation. 
 
   >*Abbas Acar, Hidayet Aksu, A. Selcuk Uluagac.* [[Paper]]( https://dl.acm.org/doi/10.1145/3214303)
+  
+* [**IACR Cryptology ePrint Archive 2015**] [**FHE**]  A Guide to Fully Homomorphic Encryption.
 
+  >*Frederik A, Colin B, Martin S, et al.* [[Paper]](https://eprint.iacr.org/2015/1192)
+  
+* [**IACR Cryptology ePrint Archive 2018**] [**FHE**] Homomorphic Encryption Standard.
 
+  >*Martin A, Melissa C, Vinod V, et al* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
+  
+* [**EUPOCRYPT 2017**] [**CKKS方案开山之作**] Homomorphic Encryption for Arithmetic of Approximate Numbers.
+
+  >*Jung C, Andrey K, Yongsoo S, et al.* [[Paper]](https://eprint.iacr.org/2016/421.pdf?ref=https://codemonkey.link) 
+  
+* [**EUPOCRYPT 2015**] [**FHEW方案开山之作**] FHEW: Bootstrapping Homomorphic Encryption in less than a second.
+
+  >*Leo D, Daniele M, Centrum W, et al.* [[Paper]](https://ir.cwi.nl/pub/23686/23686B.pdf) 
 
 ---
 ## Maintainers
