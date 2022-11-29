@@ -117,30 +117,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Ryohei Nakayama, Makoto Ikeda* [[Paper]](https://ieeexplore.ieee.org/document/9401283/)
 
-* [**TCAS-I 2020**] [**Modular Multiplication**] Lattice-Based Cryptoprocessor for CCA-Secure Identity-Based Encryption.
-
-  >*Claudia P. Rentería-Mejía, Jaime Velasco-Medina* [[Paper]](https://ieeexplore.ieee.org/document/9046808)
-
-* [**TCAS-I 2022**] [**NTT**] NTT Architecture for a Linux-Ready RISC-V Fully-Homomorphic Encryption Accelerator.
-
-  >*Rogério Paludo, Leonel Sousa.* [[Paper]](https://ieeexplore.ieee.org/document/9763876/)
-
-* [**TCAS-I 2022**] [**BFV**] ReMCA: A Reconfigurable Multi-Core Architecture for Full RNS Variant of BFV Homomorphic Evaluation.
-
-  >*Yang Su, Yang B, Song-Yin Zhao, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9755024/)
-
-* [**Access 2020**] [**BGV**] FPGA-Based Hardware Accelerator for Leveled Ring-LWE Fully Homorphic Encryption. 
-
-  >*Yang Su, Bailong Yang, Luogeng Tian, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9194003)
-
-* [**Computer Science Machine Learning 2021**] [**Paillier**] FPGA-Based Hardware Accelerator for Leveled Ring-LWE Fully Homorphic Encryption. 
-
-  >*Cheng X, Lu W, Chen S, et al.* [[Paper]](https://arxiv.org/abs/2107.13797)
-
-* [**Computing Science Cryptography and Security 2020**] [**Paillier**] FPGA-Based Hardware Accelerator of Homomorphic Encryption for Efficient Federated Learning.
-
-  >*Zhaoxiong Yang, Shuihai Hu, Kai Chen.* [[Paper]](https://arxiv.org/abs/2007.10560)
-  
 * [**HEPC 2014**] [**FHE**] An FPGA co-processor implementation of Homomorphic Encryption.
 
   >*David B, John G, Kurt R, et al.* [[Paper]](https://ieee-hpec.org/2014/CD/index_htm_files/FinalPapers/38.pdf)
@@ -157,6 +133,22 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Sunwoong K, Keewoo L, Wonhee C, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9114594)
 
+* [**TCAS-I 2020**] [**Modular Multiplication**] Lattice-Based Cryptoprocessor for CCA-Secure Identity-Based Encryption.
+
+  >*Claudia P. Rentería-Mejía, Jaime Velasco-Medina* [[Paper]](https://ieeexplore.ieee.org/document/9046808)
+
+* [**TCAS-I 2022**] [**NTT**] NTT Architecture for a Linux-Ready RISC-V Fully-Homomorphic Encryption Accelerator.
+
+  >*Rogério Paludo, Leonel Sousa.* [[Paper]](https://ieeexplore.ieee.org/document/9763876/)
+
+* [**TCAS-I 2022**] [**BFV**] ReMCA: A Reconfigurable Multi-Core Architecture for Full RNS Variant of BFV Homomorphic Evaluation.
+
+  >*Yang Su, Yang B, Song-Yin Zhao, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9755024/)
+
+* [**IEEE Access 2020**] [**BGV**] FPGA-Based Hardware Accelerator for Leveled Ring-LWE Fully Homorphic Encryption. 
+
+  >*Yang Su, Bailong Yang, Luogeng Tian, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9194003)
+
 * [**T-C 2020**] [**FHE**] HEAWS: An Accelerator for Homomorphic Encryption on the Amazon AWS FPGA.
 
   >*Furkan Turan, Sujoy Sinha Roy, and Ingrid Verbauwhede* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9072637)
@@ -168,6 +160,14 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**TETCI 2017**] [**FHE, CRT**] Designing an FPGA-Accelerated Homomorphic Encryption Co-Processor.,
 
   >*David C, Kurt Rf and Daniel S.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/6871300)
+  
+* [**Computer Science Machine Learning 2021**] [**Paillier**] FPGA-Based Hardware Accelerator for Leveled Ring-LWE Fully Homorphic Encryption. 
+
+  >*Cheng X, Lu W, Chen S, et al.* [[Paper]](https://arxiv.org/abs/2107.13797)
+  
+* [**Computing Science Cryptography and Security 2020**] [**Paillier**] FPGA-Based Hardware Accelerator of Homomorphic Encryption for Efficient Federated Learning.
+
+  >*Zhaoxiong Yang, Shuihai Hu, Kai Chen.* [[Paper]](https://arxiv.org/abs/2007.10560)
 
 
 ---
@@ -254,25 +254,21 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
   >*Yongwoo L,  Joon-Woo L, Young K, et al.* [[Paper]](https://iacr.org/submit/files/slides/2022/eurocrypt/eurocrypt2022/239/slides.pdf) 
   
-* [**CHES 2018**] [**BFV**] High-Performance FV Somewhat Homomorphic Encryption on GPUs: An Implementation using CUDA.
-  
-  >*Ahmad B, Bharadwaj V, Chan M, et al.* [[Paper]](https://www.researchgate.net/profile/Ahmad-Al-Badawi/publication/346706228_High-Performance_FV_Somewhat_Homomorphic_Encryption_on_GPUs_An_Implementation_using_CUDA/links/6131df9238818c2eaf7ae5c9/High-Performance-FV-Somewhat-Homomorphic-Encryption-on-GPUs-An-Implementation-using-CUDA.pdf) 
-  
 * [**CHES 2021**] [**Bootstrapping**] Over 100x Faster Bootstrapping in Fully Homomorphic Encryption through Memory-centric Optimization with GPUs.
   
   >*Wonkyung J, Sangpyo K, Jung A, et al.* [[Paper]](https://tches.iacr.org/index.php/TCHES/article/view/9062) 
   
-* [**CHES 2021**] [**BFV**] Over 100x Faster Bootstrapping in Fully Homomorphic Encryption through Memory-centric Optimization with GPUs.
+* [**CHES 2018**] [**BFV**] High-Performance FV Somewhat Homomorphic Encryption on GPUs: An Implementation using CUDA.
   
-  >*Wonkyung J, Sangpyo K, Jung A, et al.* [[Paper]](https://tches.iacr.org/index.php/TCHES/article/view/9062) 
-  
-* [**Crypto 2013**] [**Bootstrapping**] Practical Bootstrapping in Quasilinear Time.
-  
-  >*Jacob Alperin-Sheriff and Chris Peikert* [[Paper]](https://web.eecs.umich.edu/~cpeikert/pubs/simpleboot.pdf) 
+  >*Ahmad B, Bharadwaj V, Chan M, et al.* [[Paper]](https://www.researchgate.net/profile/Ahmad-Al-Badawi/publication/346706228_High-Performance_FV_Somewhat_Homomorphic_Encryption_on_GPUs_An_Implementation_using_CUDA/links/6131df9238818c2eaf7ae5c9/High-Performance-FV-Somewhat-Homomorphic-Encryption-on-GPUs-An-Implementation-using-CUDA.pdf) 
   
 * [**Crypto 2021**] [**BGV**] Faster Homomorphic Linear Transformations in HElib.
   
   >*Shai Halevi and Victor Shoup.* [[Paper]](https://www.iacr.org/archive/crypto2018/10993198/10993198.pdf) 
+  
+* [**Crypto 2013**] [**Bootstrapping**] Practical Bootstrapping in Quasilinear Time.
+  
+  >*Jacob Alperin-Sheriff and Chris Peikert* [[Paper]](https://web.eecs.umich.edu/~cpeikert/pubs/simpleboot.pdf) 
   
 * [**EUPOCRYPT 2018**] [**Bootstrapping**] Homomorphic Lower Digits Removal and Improved FHE Bootstrapping.
   
@@ -341,8 +337,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**IACR Cryptology ePrint Archive 2015**] [**FHE**] A Guide to Fully Homomorphic Encryption.
 
   >*Frederik A, Colin B, Martin S, et al.* [[Paper]](https://eprint.iacr.org/2015/1192)
-
-
 
 
 ---

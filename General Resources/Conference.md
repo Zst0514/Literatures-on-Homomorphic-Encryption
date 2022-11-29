@@ -15,7 +15,6 @@ Conferences and workshops
 - ASPLOS (Architectural Support for Programming Languages and Operating Systems)
 - MICRO (The International Symposium on Microarchitecture)
 - ISCAS (International Symposium on Circuits And Systems)
-- TCAS-I (IEEE Transactions on Circuits and Systems I)
 - HPEC (IEEE High Performance Extreme Computing)
 - ASAP (International Conference on Application-specific Systems, Architectures and Processors)
 - DSD (Euromicro Conference on Digital System Design)
@@ -60,6 +59,7 @@ Conferences and workshops
 - TVLSI (IEEE Transactions on Very Large Scale Integration (VLSI) Systems)
 - TETC (IEEE Transactions on Emerging Topics in Computing)
 - JPDC (Journal of Parallel and Distributed Computing)
+- TCAS-I (IEEE Transactions on Circuits and Systems I)
 - TETCI (IEEE Transactions on Emerging Topic)
 - IEEE Access
 - T-C (IEEE Transactions on Computers)
