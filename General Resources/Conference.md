@@ -6,7 +6,7 @@ Conferences and workshops
 ### System
 
 - HPCA (High Performance Computer Architecture)
-- ISSCC (IEEE International Solid-State Circuits Conference”)
+- ISSCC (IEEE International Solid-State Circuits Conference)
 - ISCA (International Symposium on Computer Architecture)
 - DATE (Design, Automation and Test in Europe)
 - CICC (Custom Integrated Circuits Conference)
@@ -20,6 +20,8 @@ Conferences and workshops
 - DSD (Euromicro Conference on Digital System Design)
 - FCCM (International Symposium on Field-Programmable Custom Computing Machines)
 
+
+
 ### Information Security(Mainly Applicable)
 
 - CCS (ACM Conference on Computer and Communications Security)  http://dblp.uni-trier.de/db/conf/ccs/
@@ -27,6 +29,8 @@ Conferences and workshops
 - Usenix Security (Usenix Security Symposium)  http://dblp.uni-trier.de/db/conf/uss/
 - NDSS (ISOC Network and Distributed System Security Symposium)  https://www.ndss-symposium.org/
 - HOST(IEEE International Symposium on Hardware Oriented Security and Trust)
+
+
 
 ### Crypto(Mainly Theoretical)
 
@@ -38,12 +42,15 @@ Conferences and workshops
 - WAHC (Workshop on Encrypted Computing & Applied Homomorphic Cryptography)
 - IACR Cryptology ePrint Archive (The Cryptology ePrint Archive provides rapid access to recent research in cryptology. )
 
+
+
 ### Artificial Intelligence
+
 - AAAI (AAAI Conference on Artificial Intelligence)
   * [Deep Learning on Graphs: Methods and Applications (2021)](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/)
   * [Graphs and more Complex structures for Learning and Reasoning (2021 2020)](https://sites.google.com/view/gclr2021/)
-
-
+  
+-  SPSL (Secure and Private Systems for Machine Learning)
 
 ### Others
 
@@ -51,6 +58,8 @@ Conferences and workshops
 - JMIR (Journal of medical Internet research)
 - PLDI (ACM SIGPLAN Conference on Programming Language Design & Implementation)
 - Reconfig (International Conference on Reconfigurable Computing and FPGAs)
+
+
 
 ## Journals
 
@@ -63,4 +72,6 @@ Conferences and workshops
 - TETCI (IEEE Transactions on Emerging Topic)
 - IEEE Access
 - T-C (IEEE Transactions on Computers)
+- TOCT (ACM Transactions on Computation Theory) 
+- Journal of Cryptology
 
