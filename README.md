@@ -202,6 +202,14 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Hsu H and Shieh M.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181192)
   
+* [**CHES 2015**] [**FHE NTT**] Accelerating homomorphic evaluation on reconfigurable hardware. *T. Poppelmann.
+
+  >M. Naehrig, A. Macias, et al.* [[Paper]](https://www.iacr.org/archive/ches2015/92930139/92930139.pdf) 
+  
+* [**CHES 2014**] [**NTT RLWE**] Compact Ring-LWE Cryptoprocessor.
+
+  >*Sujoy R, Frederik V, Nele M, et al.*[[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-2444.pdf) 
+  
 * [**ISCAS 2013**] [**FHE**] FPGA implementation of a large-number multiplier for fully homomorphic encryption.
 
   >*Wei Wang and Xinming Huang.* [[Paper]](https://users.wpi.edu/~xhuang/pubs/2013_wang_iscas.pdf)
@@ -258,6 +266,10 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
   >*Eduardo Chielle, Homer Gamil, Michail Maniatakos.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)
   
+* [**DATE 2015**] [**CKKS**] Efficient Software Implementation of Ring-LWE Encryption.
+  
+  >*Ruan de C, Sujoy R, Frederik V, et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-2481.pdf)
+  
 * [**TCAD 2020**] [**FHE**] Efficient Comparison and Addition for FHE With Weighted Computational Complexity Model.
   
   >*Neng Zhang, Shaojun Wei, Leibo Liu, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9224873/)
@@ -302,6 +314,10 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
   >*Shai Halevi, Victor Shoup.* [[Paper]](https://www.iacr.org/archive/crypto2018/10993198/10993198.pdf) 
   
+* [**Crypto 2014**] [**BGV**] Algorithms in HElib.
+  
+  >*S. Halevi and V. Shoup* [[Paper]](https://www.iacr.org/archive/crypto2014/86160286/86160286.pdf) 
+  
 * [**Crypto 2013**] [**Bootstrapping**] Practical Bootstrapping in Quasilinear Time.
   
   >*Jacob Alperin-Sheriff, Chris Peikert* [[Paper]](https://web.eecs.umich.edu/~cpeikert/pubs/simpleboot.pdf) 
@@ -322,9 +338,13 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Yongwoo L,  Joon-Woo L, Young K, et al.* [[Paper]](https://iacr.org/submit/files/slides/2022/eurocrypt/eurocrypt2022/239/slides.pdf) 
 
-* [**AsiaCrypt 2017**] [**Bootstrapping**] Bootstrapping for Approximate Homomorphic Encryption.
+* [**AsiaCrypt 2021**] [**Bootstrapping, FHEW, TFHE**] Bootstrapping in FHEW-like cryptosystems.
 
-  >*Cheon J H, Han K, Kim A, et al.* [[Paper]](https://www.researchgate.net/profile/Han-Kyoohyung/publication/324108560_Bootstrapping_for_Approximate_Homomorphic_Encryption/links/5b57d4b7a6fdccf0b2f33f9a/Bootstrapping-for-Approximate-Homomorphic-Encryption.pdf) 
+  >*Yongwoo L,  Joon-Woo L, Young K, et al.* [[Paper]](https://iacr.org/submit/files/slides/2022/eurocrypt/eurocrypt2022/239/slides.pdf) 
+
+* [**AsiaCrypt 2020**] [**Bootstrapping**] Bootstrapping for Approximate Homomorphic Encryption.
+
+  >*Micciancio D, Polyakov Y.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3474366.3486924) 
 
 * [**AsiaCrypt 2016**] [**Bootstrapping**] Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds.
 
@@ -341,6 +361,10 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**IEEE Access 2020**] [**FHE**] Privacy-Preserving Machine Learning With Fully Homomorphic Encryption for Deep Neural Network.
 
   >*Joon-woo L, Hyungchul K, Jong-Seon N, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9734024) 
+
+* [**IEEE Access 2018**] [**Bootstrapping**] Faster Bootstrapping With Multiple Addends.
+
+  >*Zhou T, Yang X, Liu L, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8449914) 
 
 * [**IISWC 2020**] [**NTT, Bootstrapping**] Accelerating Number Theoretic Transformations for Bootstrappable Homomorphic Encryption on GPUs.
 
@@ -402,6 +426,18 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**Crypto 2018**] [**BGV**] Faster Homomorphic Linear Transformations in HElib.
 
   >*Shai Halevi and Victor Shoup.*[[Paper]](https://www.shoup.net/papers/matmul.pdf)
+  
+* [**Commun.ACM 2010**] [**FHE**] Computing Arbitrary Functions of Encrypted Data.
+
+  >*Craig Gentry*[[Paper]](http://www.cs.cmu.edu/afs/cs/project/pscico-guyb/realworld/www/slidesF15/easy-fhe.pdf)
+
+* [**COMM 2014**] [**FHE**] Comparison-Based Computations Over Fully Homomorphic Encrypted Data.
+
+  >*Togan M, Pleşca C* [[Paper]](https://scholar.google.com/scholar?cluster=10454670174768971220&hl=zh-CN&as_sdt=0,5&as_vis=1)
+
+* [**DCC 2014**] [**FHE**] Fully Homomorphic SIMD Operations.
+
+  >*N.P. Smart and F. Vercauteren* [[Paper]](https://www.researchgate.net/profile/Petter-Smart/publication/220334118_Fully_homomorphic_SIMD_operations/links/56f1f14308ae1cb29a3d1dbd/Fully-homomorphic-SIMD-operations.pdf)
 
 ---
 ## Surveys and Guides on Homomorphic Encryption
@@ -438,17 +474,21 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Junfeng Fan, Frederik Vercauteren* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
   
+* [**Crypto 2013**] [**GSW方案开山之作**] Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based.
+
+  >*Craig Gentry, Amit Sahai, Brent Waters* [[Paper]](https://seclab.skku.edu/wp-content/uploads/2017/02/340.pdf) 
+  
 * [**TOCT 2014**] [**BGV方案开山之作**] (Leveled) Fully Homomorphic Encryption without Bootstrapping.
 
   >*Brakerski Z, Gentry C, Vaikuntanathan V.* [[Paper]](http://people.csail.mit.edu/vinodv/6892-Fall2013/BGV.pdf) 
   
-* [**EUPOCRYPT 2017**] [**CKKS方案开山之作**] Homomorphic Encryption for Arithmetic of Approximate Numbers.
-
-  >*Jung C, Andrey K, Yongsoo S, et al.* [[Paper]](https://eprint.iacr.org/2016/421.pdf?ref=https://codemonkey.link) 
-  
 * [**EUPOCRYPT 2015**] [**FHEW方案开山之作**] FHEW: Bootstrapping Homomorphic Encryption in less than a second.
 
   >*Leo D, Daniele M, Centrum W, et al.* [[Paper]](https://ir.cwi.nl/pub/23686/23686B.pdf) 
+  
+* [**EUPOCRYPT 2017**] [**CKKS方案开山之作**] Homomorphic Encryption for Arithmetic of Approximate Numbers.
+
+  >*Jung C, Andrey K, Yongsoo S, et al.* [[Paper]](https://eprint.iacr.org/2016/421.pdf?ref=https://codemonkey.link) 
   
 * [**Journal of Cryptology 2020**] [**TFHE开山之作**] Fast Fully Homomorphic Encryption over the Torus.
 

@@ -41,6 +41,7 @@ Conferences and workshops
 - SAC (Selected Areas in Cryptography Workshop)
 - WAHC (Workshop on Encrypted Computing & Applied Homomorphic Cryptography)
 - IACR Cryptology ePrint Archive (The Cryptology ePrint Archive provides rapid access to recent research in cryptology. )
+- DCC (Designs Codes Cryptography)
 
 
 
@@ -58,8 +59,7 @@ Conferences and workshops
 - JMIR (Journal of medical Internet research)
 - PLDI (ACM SIGPLAN Conference on Programming Language Design & Implementation)
 - Reconfig (International Conference on Reconfigurable Computing and FPGAs)
-
-
+- COMM (International Conference on Communications)
 
 ## Journals
 
@@ -74,4 +74,5 @@ Conferences and workshops
 - T-C (IEEE Transactions on Computers)
 - TOCT (ACM Transactions on Computation Theory) 
 - Journal of Cryptology
+- Communications of the ACM (Commun.ACM)
 
