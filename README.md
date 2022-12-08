@@ -1,4 +1,4 @@
-# Literature on Homomorphic Encryption Acceleration
+# Literatures on Homomorphic Encryption Acceleration
 
 A reading list for Acceleration on Homomorphic Encryption, including but not limited to related research on software and hardware level. The list covers related papers, conferences, tools other resources. We have a [team of Maintaners](#Maintainers) responsible for maintainance, meanwhile also welcome contributions from anyone.
 
@@ -140,7 +140,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 * [**SAC 2018**] [**BFV, RNS**] A Full RNS Variant of Approximate Homomorphic Encryption.
 
-  >*Jung C , Kyoohyung H, Yongsoo S, et al.* [[Paper]](https://www.researchgate.net/profile/Han-Kyoohyung/publication/330341753_A_Full_RNS_Variant_of_Approximate_Homomorphic_Encryption_25th_International_Conference_Calgary_AB_Canada_August_15-17_2018_Revised_Selected_Papers/links/5cd27fdaa6fdccc9dd93a38a/A-Full-RNS-Variant-of-Approximate-Homomorphic-Encryption-25th-International-Conference-Calgary-AB-Canada-August-15-17-2018-Revised-Selected-Papers.pdf) 
+  >*Jung C, Kyoohyung H, Yongsoo S, et al.* [[Paper]](https://www.researchgate.net/profile/Han-Kyoohyung/publication/330341753_A_Full_RNS_Variant_of_Approximate_Homomorphic_Encryption_25th_International_Conference_Calgary_AB_Canada_August_15-17_2018_Revised_Selected_Papers/links/5cd27fdaa6fdccc9dd93a38a/A-Full-RNS-Variant-of-Approximate-Homomorphic-Encryption-25th-International-Conference-Calgary-AB-Canada-August-15-17-2018-Revised-Selected-Papers.pdf) 
 
 * [**SAC 2016**] [**FHE, Logistic Regression**] A Full RNS Variant of FV like Somewhat Homomorphic Encryption Schemes.
 
@@ -459,35 +459,35 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Martin A, Melissa C, Vinod V, et al* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
   
-* [**STOC 2009**] [**Lattice-FHE的开山之作**] Fully homomorphic encryption using ideal lattices.
+* [**STOC 2009**] [**Lattice-FHE Scheme**] Fully homomorphic encryption using ideal lattices.
 
   >*Craig Gentry* [[Paper]](https://asset-pdf.scinapse.io/prod/2031533839/2031533839.pdf)
   
-* [**EUROCRYPT 2010**] [**DGHV方案**] Fully Homomorphic Encryption over the Integers.
+* [**EUROCRYPT 2010**] [**DGHV Scheme**] Fully Homomorphic Encryption over the Integers.
 
   >*van Dijk M, Gentry C, Halevi S, et al.* [[Paper]](https://luca-giuzzi.unibs.it/corsi/Support/papers-cryptography/616.pdf)
   
-* [**IACR Cryptology ePrint Archive 2012**] [**BFV方案开山之作**] Somewhat Practical Fully Homomorphic Encryption.
+* [**IACR Cryptology ePrint Archive 2012**] [**The BFV Scheme**] Somewhat Practical Fully Homomorphic Encryption.
 
   >*Junfeng Fan, Frederik Vercauteren* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
   
-* [**Crypto 2013**] [**GSW方案开山之作**] Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based.
+* [**Crypto 2013**] [**The GSW Scheme**] Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based.
 
   >*Craig Gentry, Amit Sahai, Brent Waters* [[Paper]](https://seclab.skku.edu/wp-content/uploads/2017/02/340.pdf) 
   
-* [**TOCT 2014**] [**BGV方案开山之作**] (Leveled) Fully Homomorphic Encryption without Bootstrapping.
+* [**TOCT 2014**] [**The BGV Scheme**] (Leveled) Fully Homomorphic Encryption without Bootstrapping.
 
   >*Brakerski Z, Gentry C, Vaikuntanathan V.* [[Paper]](http://people.csail.mit.edu/vinodv/6892-Fall2013/BGV.pdf) 
   
-* [**EUPOCRYPT 2015**] [**FHEW方案开山之作**] FHEW: Bootstrapping Homomorphic Encryption in less than a second.
+* [**EUPOCRYPT 2015**] [**The FHEW Scheme**] FHEW: Bootstrapping Homomorphic Encryption in less than a second.
 
   >*Leo D, Daniele M, Centrum W, et al.* [[Paper]](https://ir.cwi.nl/pub/23686/23686B.pdf) 
   
-* [**EUPOCRYPT 2017**] [**CKKS**] Homomorphic Encryption for Arithmetic of Approximate Numbers.
+* [**EUPOCRYPT 2017**] [**The CKKS**] Homomorphic Encryption for Arithmetic of Approximate Numbers.
 
   >*Jung C, Andrey K, Yongsoo S, et al.* [[Paper]](https://eprint.iacr.org/2016/421.pdf?ref=https://codemonkey.link) 
   
-* [**Journal of Cryptology 2020**] [**TFHE开山之作**] Fast Fully Homomorphic Encryption over the Torus.
+* [**Journal of Cryptology 2020**] [**The TFHE Scheme**] Fast Fully Homomorphic Encryption over the Torus.
 
   >*Chillotti, Ilaria, et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3166.pdf) 
 
