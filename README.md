@@ -450,11 +450,11 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Abbas Acar, Hidayet Aksu, A. Selcuk Uluagac.* [[Paper]]( https://asset-pdf.scinapse.io/prod/2031533839/2031533839.pdf)
   
-* [**IACR Cryptology ePrint Archive 2015**] [**Book**]  A Guide to Fully Homomorphic Encryption.
+* [**IACR Cryptology ePrint Archive 2015**] [**Book**] A Guide to Fully Homomorphic Encryption.
 
   >*Frederik A, Colin B, Martin S, et al.* [[Paper]](https://eprint.iacr.org/2015/1192)
   
-* [**IACR Cryptology ePrint Archive 2018**] Homomorphic Encryption Standard.
+* [**IACR Cryptology ePrint Archive 2018**] [**FHE**] Homomorphic Encryption Standard.
 
   >*Martin A, Melissa C, Vinod V, et al* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
   
