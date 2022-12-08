@@ -1,12 +1,12 @@
-# Papers For Deep Graph Learning Acceleration
-Deep graph learning acceleration papers in a chronological order.
+# **Papers For Homomorphic Encryption Acceleration**
+Homomorphic Encryption acceleration papers in a chronological order.
 
 [Back to home](./README.md)
 
 ---
-## Journal
+## **Journal**
 
-### 2022
+### **2022**
 
 * [**TCAD 2022**] [**BGV**] Efficient FHE Radix-2 Arithmetic Operations Based on Redundant Encoding. *Hou Z, Shaojun Wei, Leibo Liu, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9502150)
 * [**TVLSI 2022**] [**BFV, CKKS**] A Highly Unified Reconfigurable Multicore Architecture to Speed Up NTT/INTT for Homomorphic Polynomial Multiplication. *Su Y, Yang B, Liu Y, et al.*  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9761841/)
@@ -15,12 +15,12 @@ Deep graph learning acceleration papers in a chronological order.
 * [**TCAS-I 2022**] [**Polynomial Multiplication**] Faster NTRU on ARM Cortex-M4 With TMVP-Based Multiplication. *Irem Keskinkurt Paksoy, Murat Cenk.* [[Paper]](https://ieeexplore.ieee.org/document/9835023/) 
 
 
-### 2021
+### **2021**
 
 * [**TCAD 2021**] [**PQC**] Model-Architecture Co-Design for High Performance Temporal GNN Inference on FPGA. *Canto A, Kermani M, Azarderakhsh R, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9179769)
 * [**TCAS-I 2021**] [**Scalar Multiplication**] Radix-2w Arithmetic for Scalar Multiplication in Elliptic Curve Cryptography. *Abdelkrim Kamel Oudjida, Ahmed Liacha.* [[Paper]](https://ieeexplore.ieee.org/document/9349769)
 
-### 2020
+### **2020**
 
 * [**TCAD 2020**] [**FHE**] Efficient Comparison and Addition for FHE With Weighted Computational Complexity Model. *Neng Zhang, Shaojun Wei, Leibo Liu, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9224873/)
 * [**TVLSI 2020**] [**BFV**] Design and Implementation of Encryption/Decryption Architectures for BFV Homomorphic Encryption Scheme. *Ahmet Can Mert , ErdinÖztürk, and Erkay Savas* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8866755)
@@ -33,11 +33,11 @@ Deep graph learning acceleration papers in a chronological order.
 * [**IEEE Access 2020**] [**FHE**] Privacy-Preserving Machine Learning With Fully Homomorphic Encryption for Deep Neural Network.  *Joon-woo L, Hyungchul K, Jong-Seon N, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9734024) 
 * [**Journal of Cryptology 2020**] [**TFHE开山之作**] Fast Fully Homomorphic Encryption over the Torus. *Chillotti, Ilaria, et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3166.pdf) 
 
-### 2019
+### **2019**
 
 - [**TETCI 2019**] [**BFV, RNS**] Implementation and Performance Evaluation of RNS Variants of the BFV Homomorphic Encryption Scheme. *Ahmad B, Yuriy P, Kurt R, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8657794/)
 
-### 2018 and before
+### **2018 and before**
 
 - [**IEEE Access 2018**] [**Bootstrapping**] Faster Bootstrapping With Multiple Addends  *Zhou T, Yang X, Liu L, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8449914) 
 - [**T-C 2018**] [**BFV**] HEPCloud: An FPGA-based multicore processor for FV somewhat homomorphic function evaluation. *Sujoy R, Kimmo J, Ingrid V, et al.* [[Paper]](https://core.ac.uk/download/pdf/275655528.pdf)
@@ -50,9 +50,9 @@ Deep graph learning acceleration papers in a chronological order.
 
 
 ---
-## Conference
+## **Conference**
 
-### 2022
+### **2022**
 * [**ISSCC 2022**] [**CKKS**] A 28nm 48KOPS 3.4J Op Agile Crypto-Processor for Post Quantum Cryptograph on Multi Mathematical Problems. *Zhu Y, Wei S, Liu L et al.* [[Paper]](https://ieeexplore.ieee.org/document/9731783)
 * [**ISCA 2022**] [**CKKS**] BTS: An Accelerator for Bootstrappable Fully Homomorphic Encryption. *Kim S, Kim J, Ahn Jung et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527415)
 * [**ISCA 2022**] [**FHE**] CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data. *Samardzic N, Feldmann A, Krastev A, et al.* [[Paper]](https://people.csail.mit.edu/devadas/pubs/craterlake.pdf)
@@ -67,12 +67,12 @@ Deep graph learning acceleration papers in a chronological order.
 * [**MICRO 2022**] [**CKKS**] ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse. *Kim J, Lee G, Ahn J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9923889/)
 * [**ESSCIRC 2022**] [**PQC**] Configurable Energy-Efficient Lattice-Based PostQuantum Cryptography Processor for IoT Devices. *Kim B, Park J, Sim J, et al* [[Paper]](https://ieeexplore.ieee.org/document/9911531/)
 * [**IEEE proceedings 2022**] Survey on Fully Homomorphic Encryption, Theory, and Applications. *Chiara M, Victor S, Marc M, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9910347)
-* [**CSUR 2022**] A Survey on Homomorphic Encryption Schemes_Theory and Implementation.  *Abbas Acar, Hidayet Aksu, A. Selcuk Uluagac.* [[Paper]]( https://dl.acm.org/doi/10.1145/3214303)
+* [**CSUR 2022**] [**Survey**] A Survey on Homomorphic Encryption Schemes_Theory and Implementation.  *Abbas Acar, Hidayet Aksu, A. Selcuk Uluagac.* [[Paper]]( https://dl.acm.org/doi/10.1145/3214303)
 * [**CSUR 2022**] [**Survey**] Fully Homomorphic Encryption Using Ideal Lattices. *Abbas Acar, Hidayet Aksu, A. Selcuk Uluagac.* [[Paper]]( https://asset-pdf.scinapse.io/prod/2031533839/2031533839.pdf)
 * [**AsiaCrypt 2022**] [**Bootstrapping**] High-Precision Bootstrapping for Approximate Homomorphic Encryption by Error Variance Minimization. *Yongwoo L,  Joon-Woo L, Young K, et al.* [[Paper]](https://iacr.org/submit/files/slides/2022/eurocrypt/eurocrypt2022/239/slides.pdf) 
 * [**ArXiv 2022**] [**FHE, Bootstrapping**] FAB: An FPGA-based Accelerator for Bootstrappable Fully Homomorphic Encryption. *Rashmi A, Leo de, Ajay J, et al.*[[Paper]](https://arxiv.org/abs/2207.11872)
 
-### 2021
+### **2021**
 * [**HPCA 2021**] [**BFV**] Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference. *Reagen B, Choi W, Brooks D, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9407118)
 * [**CICC 2021**] [**Pairing**] A Low-Power Elliptic Curve Pairing Crypto-Processor for Secure Embedded Blockchain and Functional Encryption. *Utsav Banerjee, Anantha P. Chandrakasan* [[Paper]](https://ieeexplore.ieee.org/document/9431552)
 * [**DATE 2021**] [**BFV**] Real-time Private Membership Test using Homomorphic Encryption. *Eduardo Chielle, Homer Gamil, Michail Maniatakos.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)
@@ -88,7 +88,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [**SPSL 2021**] [**TFHE**] An FPGA-based Programmable Vector Engine for Fast Fully Homomorphic Encryption over the Torus. *Y. Serhan Gener, Parker Newton, Daniel Tan, et al.* [[Paper]](https://people.ece.ubc.ca/lemieux/publications/gener-spsl2021.pdf)
 * [**AsiaCrypt 2021**] [**Bootstrapping, FHEW, TFHE**] Bootstrapping in FHEW-like cryptosystems. *Yongwoo L,  Joon-Woo L, Young K, et al.* [[Paper]](https://iacr.org/submit/files/slides/2022/eurocrypt/eurocrypt2022/239/slides.pdf) 
 
-### 2020
+### **2020**
 * [**DATE 2020**] [**CKKS**] A Flexible and Scalable NTT Hardware:Applications from Homomorphically Encrypted Deep Learning to Post-Quantum Cryptography. *Mert A, Karabulut E, Aysu A, et al* [[Paper]](https://ieeexplore.ieee.org/document/9116470)
 * [**DAC 2020**] [**NTT**] CryptoPIM: In-memory Acceleration for Lattice-based Cryptographic Hardware. *Nejatollahi H, Gupta S, Dut N, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9218730)
 * [**DAC 2020**] [**TFHE**] ROMEO: Conversion and Evaluation of HDL Designs in the Encrypted Domain. *Charles Gouert and Nektarios Georgios Tsoutsos.* [[Paper]](https://ieeexplore.ieee.org/document/9218579/)
@@ -102,7 +102,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [**IACR Cryptology ePrint Archive 2020**] [**CKKS**] Efficient Bootstrapping for Approximate Homomorphic Encryption with Non-Sparse Keys. *Bossuat J P, Mouchet C, Troncoso-Pastoriza J, et al.* [[Paper]](https://eprint.iacr.org/2020/1203)
 * [**IACR Cryptology ePrint Archive 2020**] [**CKKS**] Approximate homomorphic encryption with reduced approximation error. *Kim A, Papadimitriou A, Polyakov Y, et al.* [[Paper]](https://eprint.iacr.org/2020/1118)
 
-### 2019
+### **2019**
 * [**HPCA 2019**]  [**BFV**] FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.*Sujoy S, Furkan, T, Kimmo J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/8675244)
 * [**CICC 2019**] [**NTT**] A 55nm 50nJ_encode 13nJ_decode Homomorphic Encryption Crypto-Engine for IoT Nodes to Enable Secure Computation on Encrypted Data. 1-4. *Yoon I, Cao N, Amaravati A, et al* [[Paper]](https://ieeexplore.ieee.org/document/8780277)
 * [**DSD 2019**] [**NTT**] Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture. *Ahmet Can Mert, Erdinc Ozturk, Erkay Savas.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8875148)
@@ -111,7 +111,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [**PLDI 2019**] [**FHE**] CHET: An Optimizing Compiler for Fully-Homomorphic Neural-Network Inferencing. *Roshan D, Olli S, Todd M, et al.* [[Paper]](https://www.cs.utexas.edu/~roshan/CHET.pdf) 
 * [**Reconfig 2019**] [**FHE, Modular Multiplier**] FPGA-based Accelerators of Fully Pipelined Modular Multipliers for Homomorphic Encryption. *Sunwoong K, Keewoo L, Wonhee C, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8994793/) 
 
-### 2018 and before
+### **2018 and before**
 
 - [**Crypto 2018**] [**BGV**] Faster Homomorphic Linear Transformations in HElib. *Shai Halevi and Victor Shoup.*[[Paper]](https://www.shoup.net/papers/matmul.pdf)
 - [**CHES 2018**] [**BFV**] High-Performance FV Somewhat Homomorphic Encryption on GPUs: An Implementation using CUDA. *Ahmad B, Bharadwaj V, Chan M, et al.* [[Paper]](https://www.researchgate.net/profile/Ahmad-Al-Badawi/publication/346706228_High-Performance_FV_Somewhat_Homomorphic_Encryption_on_GPUs_An_Implementation_using_CUDA/links/6131df9238818c2eaf7ae5c9/High-Performance-FV-Somewhat-Homomorphic-Encryption-on-GPUs-An-Implementation-using-CUDA.pdf) 
@@ -119,13 +119,13 @@ Deep graph learning acceleration papers in a chronological order.
 - [**JMIR 2018**] [**FHE, Logistic Regression**] Secure Logistic Regression Based on Homomorphic Encryption: Design and Evaluation. *Miran K, Yongsoo S, Shuang Wang, et al.* [[Paper]](https://www.researchgate.net/profile/Yongsoo-Song/publication/324583361_Secure_Logistic_Regression_Based_on_Homomorphic_Encryption_Design_and_Evaluation/links/5bd3e4b992851c6b27920987/Secure-Logistic-Regression-Based-on-Homomorphic-Encryption-Design-and-Evaluation.pdf) 
 - [**IACR Cryptology ePrint Archive 2018**] [**FHE**] Homomorphic Encryption Standard. *Martin A, Melissa C, Vinod V, et al* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
 - [**SAC 2018**] [**BFV, RNS**] A Full RNS Variant of Approximate Homomorphic Encryption. *Jung C , Kyoohyung H, Yongsoo S, et al.* [[Paper]](https://www.researchgate.net/profile/Han-Kyoohyung/publication/330341753_A_Full_RNS_Variant_of_Approximate_Homomorphic_Encryption_25th_International_Conference_Calgary_AB_Canada_August_15-17_2018_Revised_Selected_Papers/links/5cd27fdaa6fdccc9dd93a38a/A-Full-RNS-Variant-of-Approximate-Homomorphic-Encryption-25th-International-Conference-Calgary-AB-Canada-August-15-17-2018-Revised-Selected-Papers.pdf) 
-- [**EUPOCRYPT 2017**] [**CKKS方案开山之作**] Homomorphic Encryption for Arithmetic of Approximate Numbers. *Jung C, Andrey K, Yongsoo S, et al.* [[Paper]](https://eprint.iacr.org/2016/421.pdf?ref=https://codemonkey.link) 
+- [**EUPOCRYPT 2017**] [**the CKKS scheme**] Homomorphic Encryption for Arithmetic of Approximate Numbers. *Jung C, Andrey K, Yongsoo S, et al.* [[Paper]](https://eprint.iacr.org/2016/421.pdf?ref=https://codemonkey.link) 
 - [**AsiaCrypt 2017**] [**Bootstrapping**] Bootstrapping for Approximate Homomorphic Encryption. *Cheon J H, Han K, Kim A, et al.* [[Paper]](https://www.researchgate.net/profile/Han-Kyoohyung/publication/324108560_Bootstrapping_for_Approximate_Homomorphic_Encryption/links/5b57d4b7a6fdccf0b2f33f9a/Bootstrapping-for-Approximate-Homomorphic-Encryption.pdf) 
 - [**AsiaCrypt 2016**] [**Bootstrapping**] Faster fully homomorphic encryption: Bootstrapping in less than 0.1 seconds. *Ilaria C , Nicolas G, Malika Izabachene, et al.* [[Paper]](https://www.iacr.org/archive/asiacrypt2016/10031271/10031271.pdf) 
 - [**SAC 2016**] [**FHE, Logistic Regression**] A Full RNS Variant of FV like Somewhat Homomorphic Encryption Schemes. *Jean-Claude B, Julien E, Vincent Z, et al.* [[Paper]](https://webusers.imj-prg.fr/~jean-claude.bajard/MesPublis/SAC2016.pdf) 
 - [**TETCI 2016**] [**FHE**] Designing an FPGA-accelerated homomorphic encryption co-processor. *Cousins D B, Rohloff K, Sumorok D.* [[Paper]](https://web.njit.edu/~rohloff/papers/2017/Rohloff_Cousins_Sumorok_TETC.pdf)
 - [**DATE 2015**] [**CKKS**] Efficient Software Implementation of Ring-LWE Encryption. *Ruan de C, Sujoy R, Frederik V, et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-2481.pdf)
-- [**EUPOCRYPT 2015**] [**FHEW方案开山之作**] FHEW: Bootstrapping Homomorphic Encryption in less than a second.*Leo D, Daniele M, Centrum W, et al.* [[Paper]](https://ir.cwi.nl/pub/23686/23686B.pdf) 
+- [**EUPOCRYPT 2015**] [**the FHEW scheme**] FHEW: Bootstrapping Homomorphic Encryption in less than a second.*Leo D, Daniele M, Centrum W, et al.* [[Paper]](https://ir.cwi.nl/pub/23686/23686B.pdf) 
 - [**IACR Cryptology ePrint Archive 2015**] [**FHE**] A Guide to Fully Homomorphic Encryption. *Frederik A, Colin B, Martin S, et al.* [[Paper]](https://eprint.iacr.org/2015/1192)
 - [**ASAP 2015**] [**Bootstrapping**] Accelerating Bootstrapping in FHEW using GPUs. *Moon L, Yongje L, Jung H*et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/7245720)
 - [**CHES 2015**] [**FHE NTT**] Accelerating homomorphic evaluation on reconfigurable hardware. *T. Poppelmann, M. Naehrig, A. Macias, et al.* [[Paper]](https://www.iacr.org/archive/ches2015/92930139/92930139.pdf) 
@@ -135,11 +135,11 @@ Deep graph learning acceleration papers in a chronological order.
 - [**DCC 2014**] [**FHE**] Fully Homomorphic SIMD Operations. *N.P. Smart and F. Vercauteren* [[Paper]](https://www.researchgate.net/profile/Petter-Smart/publication/220334118_Fully_homomorphic_SIMD_operations/links/56f1f14308ae1cb29a3d1dbd/Fully-homomorphic-SIMD-operations.pdf)
 - [**Crypto 2014**] [**BGV**] Algorithms in HElib. *S. Halevi and V. Shoup* [[Paper]](https://www.iacr.org/archive/crypto2014/86160286/86160286.pdf) 
 - [**Crypto 2013**] [**Bootstrapping**] Practical Bootstrapping in Quasilinear Time. *Jacob Alperin-Sheriff and Chris Peikert* [[Paper]](https://web.eecs.umich.edu/~cpeikert/pubs/simpleboot.pdf) 
-- [**Crypto 2013**] [**GSW方案开山之作**] Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based. *Craig Gentry, Amit Sahai, Brent Waters* [[Paper]](https://seclab.skku.edu/wp-content/uploads/2017/02/340.pdf) 
+- [**Crypto 2013**] [**the GSW scheme**] Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based. *Craig Gentry, Amit Sahai, Brent Waters* [[Paper]](https://seclab.skku.edu/wp-content/uploads/2017/02/340.pdf) 
 - [**Crypto 2012**] [**GapSVP**] Fully Homomorphic Encryption without Modulus Switching from Classical GapSVP. *Zvika Brakerski* [[Paper]](https://www.iacr.org/archive/crypto2012/74170863/74170863.pdf) 
 - [**ISCAS 2013**] [**FHE**] FPGA implementation of a large-number multiplier for fully homomorphic encryption. *Wei Wang and Xinming Huang.* [[Paper]](https://users.wpi.edu/~xhuang/pubs/2013_wang_iscas.pdf)
 - [**DSD 2013**] [**NTT**] Evaluating the Hardware Performance of a Million-Bit Multiplier. *Y. Doroz, E. Ozturk, and B. Sunar* [[Paper]](https://ieeexplore.ieee.org/document/6628381)
-- [**IACR Cryptology ePrint Archive 2012**] [**BFV方案开山之作**] Somewhat Practical Fully Homomorphic Encryption. *Junfeng Fan, Frederik Vercauteren* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
-- [**EUROCRYPT 2010**] [**DGHV方案**] Fully Homomorphic Encryption over the Integers. *van Dijk M, Gentry C, Halevi S, et al.* [[Paper]](https://luca-giuzzi.unibs.it/corsi/Support/papers-cryptography/616.pdf)
-- [**STOC 2009**] [**Lattice-FHE的开山之作**] Fully homomorphic encryption using ideal lattices. *Craig Gentry* [[Paper]](https://asset-pdf.scinapse.io/prod/2031533839/2031533839.pdf)
+- [**IACR Cryptology ePrint Archive 2012**] [**the BFV scheme**] Somewhat Practical Fully Homomorphic Encryption. *Junfeng Fan, Frederik Vercauteren* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
+- [**EUROCRYPT 2010**] [**the DGHV scheme**] Fully Homomorphic Encryption over the Integers. *van Dijk M, Gentry C, Halevi S, et al.* [[Paper]](https://luca-giuzzi.unibs.it/corsi/Support/papers-cryptography/616.pdf)
+- [**STOC 2009**] [**the Lattice-FHE scheme**] Fully homomorphic encryption using ideal lattices. *Craig Gentry* [[Paper]](https://asset-pdf.scinapse.io/prod/2031533839/2031533839.pdf)
 

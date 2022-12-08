@@ -1,10 +1,10 @@
-# Homomorphic Encryption 
+# **Homomorphic Encryption** 
 
 
 > A curated list of amazing Homomorphic Encryption libraries, software and resources.
 
 
-## Contents
+## **Contents**
 
 - [Libraries](#libraries)
 - [Toolkits](#toolkits)
@@ -13,7 +13,7 @@
 - [Resources](#resources)
 
 
-## Libraries
+## **Libraries**
 
 Libraries that can be used to implement applications using (Fully) Homomorphic Encryption.
 - [concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE.
@@ -49,7 +49,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
 
 
-## Toolkits
+## **Toolkits**
 
 - [ALCHEMY](https://github.com/cpeikert/ALCHEMY) - Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.
 - [AWS HE toolkit](https://github.com/awslabs/homomorphic-implementors-toolkit) - Simplifies the process of designing circuits for the CKKS scheme.
@@ -67,7 +67,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE evaluation platform with a set of native benchmarks and a library agnostic language.
 
 
-## Applications
+## **Applications**
 
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
 - [lattigo-polls](https://github.com/ldsec/lattigo-polls-demo) - Web-application for scheduling meetings using [lattigo](#lattigo).
@@ -82,7 +82,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library.
 
 
-## Databases
+## **Databases**
 
 - [CryptDB](https://github.com/CryptDB/cryptdb) - Protecting confidentiality with encrypted query processing.
 - [encrypted-mongodb](https://github.com/pdroalves/encrypted-mongodb) - Wrapper on MongoDB's Python driver that enables to query encrypted data.
@@ -91,7 +91,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [ZeroDB](https://github.com/zerodb/zerodb) - E2E encrypted database using proxy re-encryption.
 
 
-## Resources
+## **Resources**
 
 - [Barak, Boaz](https://intensecrypto.org/public/lec_15_FHE.html). Chapter about FHE in Barak's introductory book to Cryptography, used for Harvard CS 127.
 - [Barthelemy, Lucas](https://blog.quarkslab.com/a-brief-survey-of-fully-homomorphic-encryption-computing-on-encrypted-data.html). Brief survey of Fully HE. 2016.
@@ -106,7 +106,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Vaikuntanathan, Vinoid](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
 - [Zhigang Chen](https://zhigang-chen.github.io/FHE%20Resources.html). A list of English and Chinese FHE and Machine Learning references.
 
-## Related awesome lists
+## **Related awesome lists**
 
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)

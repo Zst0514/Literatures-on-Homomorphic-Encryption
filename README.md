@@ -1,6 +1,6 @@
-# Literatures on Homomorphic Encryption Acceleration
+# **Literatures on Homomorphic Encryption Acceleration**
 
-A reading list for Acceleration on Homomorphic Encryption, including but not limited to related research on software and hardware level. The list covers related papers, conferences, tools other resources. We have a [team of Maintaners](#Maintainers) responsible for maintainance, meanwhile also welcome contributions from anyone.
+A reading list for Acceleration on Homomorphic Encryption, including but not limited to related research on software and hardware level. The list covers related papers, conferences, tools and other resources. We have a [team of Maintaners](#Maintainers) responsible for maintainance, meanwhile also welcome contributions from anyone.
 
 Literatures in this page are arranged from a classification perspective, including the following topics:
 
@@ -459,40 +459,40 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Martin A, Melissa C, Vinod V, et al* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
   
-* [**STOC 2009**] [**Lattice-FHE Scheme**] Fully homomorphic encryption using ideal lattices.
+* [**STOC 2009**] [**the Lattice-FHE scheme**] Fully homomorphic encryption using ideal lattices.
 
   >*Craig Gentry* [[Paper]](https://asset-pdf.scinapse.io/prod/2031533839/2031533839.pdf)
   
-* [**EUROCRYPT 2010**] [**DGHV Scheme**] Fully Homomorphic Encryption over the Integers.
+* [**EUROCRYPT 2010**] [**the DGHV scheme**] Fully Homomorphic Encryption over the Integers.
 
   >*van Dijk M, Gentry C, Halevi S, et al.* [[Paper]](https://luca-giuzzi.unibs.it/corsi/Support/papers-cryptography/616.pdf)
   
-* [**IACR Cryptology ePrint Archive 2012**] [**The BFV Scheme**] Somewhat Practical Fully Homomorphic Encryption.
+* [**IACR Cryptology ePrint Archive 2012**] [**the BFV scheme**] Somewhat Practical Fully Homomorphic Encryption.
 
   >*Junfeng Fan, Frederik Vercauteren* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
   
-* [**Crypto 2013**] [**The GSW Scheme**] Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based.
+* [**Crypto 2013**] [**the GSW scheme**] Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based.
 
   >*Craig Gentry, Amit Sahai, Brent Waters* [[Paper]](https://seclab.skku.edu/wp-content/uploads/2017/02/340.pdf) 
   
-* [**TOCT 2014**] [**The BGV Scheme**] (Leveled) Fully Homomorphic Encryption without Bootstrapping.
+* [**TOCT 2014**] [**the BGV scheme**] (Leveled) Fully Homomorphic Encryption without Bootstrapping.
 
   >*Brakerski Z, Gentry C, Vaikuntanathan V.* [[Paper]](http://people.csail.mit.edu/vinodv/6892-Fall2013/BGV.pdf) 
   
-* [**EUPOCRYPT 2015**] [**The FHEW Scheme**] FHEW: Bootstrapping Homomorphic Encryption in less than a second.
+* [**EUPOCRYPT 2015**] [**the FHEW scheme**] FHEW: Bootstrapping Homomorphic Encryption in less than a second.
 
   >*Leo D, Daniele M, Centrum W, et al.* [[Paper]](https://ir.cwi.nl/pub/23686/23686B.pdf) 
   
-* [**EUPOCRYPT 2017**] [**The CKKS**] Homomorphic Encryption for Arithmetic of Approximate Numbers.
+* [**EUPOCRYPT 2017**] [**the CKKS scheme**] Homomorphic Encryption for Arithmetic of Approximate Numbers.
 
   >*Jung C, Andrey K, Yongsoo S, et al.* [[Paper]](https://eprint.iacr.org/2016/421.pdf?ref=https://codemonkey.link) 
   
-* [**Journal of Cryptology 2020**] [**The TFHE Scheme**] Fast Fully Homomorphic Encryption over the Torus.
+* [**Journal of Cryptology 2020**] [**the TFHE scheme**] Fast Fully Homomorphic Encryption over the Torus.
 
   >*Chillotti, Ilaria, et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3166.pdf) 
 
 ---
-## Maintainers
+## **Maintainers**
 
 - Shangtong Zhang, Beihang University. [[GitHub]](https://github.com/Zst0514)
 - Ao Zhou, Beihang University. [[GitHub]](https://github.com/ZhouAo-ZA)
