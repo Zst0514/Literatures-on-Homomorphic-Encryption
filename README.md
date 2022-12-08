@@ -384,7 +384,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 * [**ASAP 2015**] [**Bootstrapping**] Accelerating Bootstrapping in FHEW using GPUs.
 
-  >*Moon L, Yongje L, Jung H*et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/7245720)
+  >*Moon L, Yongje L, Jung H, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/7245720)
 
 * [**DSD 2019**] [**NTT**] Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture.
 
@@ -439,7 +439,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ---
 ## **Surveys and Performance Analysis** on Homomorphic Encryption
 
-* [**IEEE proceedings 2022**]] [**Survey**] Survey on Fully Homomorphic Encryption, Theory, and Applications.
+* [**IEEE proceedings 2022**] [**Survey**] Survey on Fully Homomorphic Encryption, Theory, and Applications.
 
   >*Chiara M, Victor S, Marc M, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9910347)
 
@@ -495,7 +495,4 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ## **Maintainers**
 
 - Shangtong Zhang, Beihang University. [[GitHub]](https://github.com/Zst0514)
-- Ao Zhou, Beihang University. [[GitHub]](https://github.com/ZhouAo-ZA)
-- Yingjie Qi, Beihang University. [[GitHub]](https://github.com/Kevin7Qi)
-- Tong Qiao, Beihang University. [[GitHub]](https://github.com/qiaotonggg)
 

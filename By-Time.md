@@ -31,7 +31,7 @@ Homomorphic Encryption acceleration papers in a chronological order.
 * [**IEEE Access 2020**] [**BGV**] FPGA-Based Hardware Accelerator for Leveled Ring-LWE Fully Homorphic Encryption. *Yang Su, Bailong Yang, Luogeng Tian, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9194003)
 * [**IEEE Access 2020**] [**FHE**] PrivFT: Private and Fast Text Classification With Homomorphic Encryption.  *Ahmad B, Louie H, Chan M, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9296754) 
 * [**IEEE Access 2020**] [**FHE**] Privacy-Preserving Machine Learning With Fully Homomorphic Encryption for Deep Neural Network.  *Joon-woo L, Hyungchul K, Jong-Seon N, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9734024) 
-* [**Journal of Cryptology 2020**] [**TFHE开山之作**] Fast Fully Homomorphic Encryption over the Torus. *Chillotti, Ilaria, et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3166.pdf) 
+* [**Journal of Cryptology 2020**] [**the TFHE scheme**] Fast Fully Homomorphic Encryption over the Torus. *Chillotti, Ilaria, et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3166.pdf) 
 
 ### **2019**
 
@@ -46,7 +46,7 @@ Homomorphic Encryption acceleration papers in a chronological order.
 - [**T-C 2016**] [**FHE**]  A Custom Accelerator for Homomorphic Encryption Applications. *Erdinc Ozturk, Yarkın Doroz, Erkay Savas* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7482844)
 - [**T-C 2015**] [**FHE**] Accelerating Fully Homomorphic Encryption in Hardware. *Yarkın Doroz, Erdinc Ozturk, and Berk Sunar* [[Paper]](https://ieeexplore.ieee.org/abstract/document/6871300)
 - [**T-C 2015**] [**FHE**] Optimised Multiplication Architectures for Accelerating Fully Homomorphic Encryption. *Cao X, Moore C, O'Neill M, et al.* [[Paper]](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/17271213/Optimised_Mult_Archs_FHE_Final.pdf)
-- [**TOCT 2014**] [**BGV方案开山之作**] (Leveled) Fully Homomorphic Encryption without Bootstrapping. *Brakerski Z, Gentry C, Vaikuntanathan V.* [[Paper]](http://people.csail.mit.edu/vinodv/6892-Fall2013/BGV.pdf) 
+- [**TOCT 2014**] [**the BGV scheme**] (Leveled) Fully Homomorphic Encryption without Bootstrapping. *Brakerski Z, Gentry C, Vaikuntanathan V.* [[Paper]](http://people.csail.mit.edu/vinodv/6892-Fall2013/BGV.pdf) 
 
 
 ---
