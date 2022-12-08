@@ -194,6 +194,14 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Kim B, Park J, Sim J, et al* [[Paper]](https://ieeexplore.ieee.org/document/9911531/)
   
+* [**CHES 2021**] [**Bootstrapping**] Over 100x Faster Bootstrapping in Fully Homomorphic Encryption through Memory-centric Optimization with GPUs.
+
+  >*Wonkyung J, Sangpyo K, Jung A, et al.* [[Paper]](https://tches.iacr.org/index.php/TCHES/article/view/9062) 
+  
+* [**CHES 2018**] [**BFV**] High-Performance FV Somewhat Homomorphic Encryption on GPUs: An Implementation using CUDA.
+
+  >*Ahmad B, Bharadwaj V, Chan M, et al.* [[Paper]](https://www.researchgate.net/profile/Ahmad-Al-Badawi/publication/346706228_High-Performance_FV_Somewhat_Homomorphic_Encryption_on_GPUs_An_Implementation_using_CUDA/links/6131df9238818c2eaf7ae5c9/High-Performance-FV-Somewhat-Homomorphic-Encryption-on-GPUs-An-Implementation-using-CUDA.pdf) 
+
 * [**ISCAS 2020**] [**AES**] Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor.
 
   >*Utsav Banerjee, Siddharth Das, Anantha P. Chandrakasan* [[Paper]](https://ieeexplore.ieee.org/document/9180550)
@@ -201,6 +209,10 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**ISCAS 2020**] [**BGV**] VLSI Architecture of Polynomial Multiplication for BGV Fully Homomorphic Encryption.
 
   >*Hsu H and Shieh M.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181192)
+  
+* [**IISWC 2020**] [**NTT, Bootstrapping**] Accelerating Number Theoretic Transformations for Bootstrappable Homomorphic Encryption on GPUs.
+
+  >*Sangpyo K, Wonkyung J, Jaiyoung P, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9251245) 
   
 * [**CHES 2015**] [**FHE NTT**] Accelerating homomorphic evaluation on reconfigurable hardware. *T. Poppelmann.
 
@@ -302,17 +314,9 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
   >*Kyoohyung H, Seungwan H, Jung C.* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5000) 
   
-* [**CHES 2021**] [**Bootstrapping**] Over 100x Faster Bootstrapping in Fully Homomorphic Encryption through Memory-centric Optimization with GPUs.
+* [**Crypto 2018**] [**BGV**] Faster Homomorphic Linear Transformations in HElib.
   
-  >*Wonkyung J, Sangpyo K, Jung A, et al.* [[Paper]](https://tches.iacr.org/index.php/TCHES/article/view/9062) 
-  
-* [**CHES 2018**] [**BFV**] High-Performance FV Somewhat Homomorphic Encryption on GPUs: An Implementation using CUDA.
-  
-  >*Ahmad B, Bharadwaj V, Chan M, et al.* [[Paper]](https://www.researchgate.net/profile/Ahmad-Al-Badawi/publication/346706228_High-Performance_FV_Somewhat_Homomorphic_Encryption_on_GPUs_An_Implementation_using_CUDA/links/6131df9238818c2eaf7ae5c9/High-Performance-FV-Somewhat-Homomorphic-Encryption-on-GPUs-An-Implementation-using-CUDA.pdf) 
-  
-* [**Crypto 2021**] [**BGV**] Faster Homomorphic Linear Transformations in HElib.
-  
-  >*Shai Halevi, Victor Shoup.* [[Paper]](https://www.iacr.org/archive/crypto2018/10993198/10993198.pdf) 
+  >*Shai Halevi and Victor Shoup.*[[Paper]](https://www.shoup.net/papers/matmul.pdf)
   
 * [**Crypto 2014**] [**BGV**] Algorithms in HElib.
   
@@ -365,10 +369,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**IEEE Access 2018**] [**Bootstrapping**] Faster Bootstrapping With Multiple Addends.
 
   >*Zhou T, Yang X, Liu L, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8449914) 
-
-* [**IISWC 2020**] [**NTT, Bootstrapping**] Accelerating Number Theoretic Transformations for Bootstrappable Homomorphic Encryption on GPUs.
-
-  >*Sangpyo K, Wonkyung J, Jaiyoung P, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9251245) 
 
 * [**JMIR 2018**] [**FHE, Logistic Regression**] Secure Logistic Regression Based on Homomorphic Encryption: Design and Evaluation.
 
@@ -423,10 +423,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Rashmi A, Leo de, Ajay J, et al.*[[Paper]](https://arxiv.org/abs/2207.11872)
 
-* [**Crypto 2018**] [**BGV**] Faster Homomorphic Linear Transformations in HElib.
-
-  >*Shai Halevi and Victor Shoup.*[[Paper]](https://www.shoup.net/papers/matmul.pdf)
-  
 * [**Commun.ACM 2010**] [**FHE**] Computing Arbitrary Functions of Encrypted Data.
 
   >*Craig Gentry*[[Paper]](http://www.cs.cmu.edu/afs/cs/project/pscico-guyb/realworld/www/slidesF15/easy-fhe.pdf)
