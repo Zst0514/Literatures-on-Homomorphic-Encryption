@@ -136,6 +136,7 @@ Deep graph learning acceleration papers in a chronological order.
 - [**Crypto 2014**] [**BGV**] Algorithms in HElib. *S. Halevi and V. Shoup* [[Paper]](https://www.iacr.org/archive/crypto2014/86160286/86160286.pdf) 
 - [**Crypto 2013**] [**Bootstrapping**] Practical Bootstrapping in Quasilinear Time. *Jacob Alperin-Sheriff and Chris Peikert* [[Paper]](https://web.eecs.umich.edu/~cpeikert/pubs/simpleboot.pdf) 
 - [**Crypto 2013**] [**GSW方案开山之作**] Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based. *Craig Gentry, Amit Sahai, Brent Waters* [[Paper]](https://seclab.skku.edu/wp-content/uploads/2017/02/340.pdf) 
+- [**Crypto 2012**] [**GapSVP**] Fully Homomorphic Encryption without Modulus Switching from Classical GapSVP. *Zvika Brakerski* [[Paper]](https://www.iacr.org/archive/crypto2012/74170863/74170863.pdf) 
 - [**ISCAS 2013**] [**FHE**] FPGA implementation of a large-number multiplier for fully homomorphic encryption. *Wei Wang and Xinming Huang.* [[Paper]](https://users.wpi.edu/~xhuang/pubs/2013_wang_iscas.pdf)
 - [**DSD 2013**] [**NTT**] Evaluating the Hardware Performance of a Million-Bit Multiplier. *Y. Doroz, E. Ozturk, and B. Sunar* [[Paper]](https://ieeexplore.ieee.org/document/6628381)
 - [**IACR Cryptology ePrint Archive 2012**] [**BFV方案开山之作**] Somewhat Practical Fully Homomorphic Encryption. *Junfeng Fan, Frederik Vercauteren* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
