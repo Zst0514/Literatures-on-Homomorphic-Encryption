@@ -6,8 +6,8 @@ Literatures in this page are arranged from a classification perspective, includi
 - [Literature on Graph Neural Networks Acceleration](#Literature-on-Homomorphic-Encryption-Acceleration)
   - [Hardware Acceleration for Homomorphic Encryption](#Hardware-Acceleration-for-Homomorphic-Encryption)
   - [System Designs for Homomorphic Encryption](#System-Designs-for-Homomorphic-Encryption)
-  - [Algorithmic Acceleration for Homomorphic Encryption](#Algorithmic-Acceleration-for-Homomorphic-Encryption)
-  - [Surveys and Performance Analysis on Homomorphic Encryption](#Surveys-and-Performance-Analysis-on-Homomorphic-Encryption)
+  - [Algorithmic Acceleration for Homomorphic Encryption](#Algorithmic-Acceleration-and-Application-for-Homomorphic-Encryption)
+  - [Surveys and Performance Analysis on Homomorphic Encryption](#Surveys-and-Guides-on-Homomorphic-Encryption)
   - [Maintainers](#maintainers)
 
 Click [here](./By-Time.md) to view these literatures in a reverse chronological order. You can also find [Related Conferences](./General%20Resources/Conference.md), [Homomorphic Encryption Learning Tools](./General%20Resources/Frameworks%20%26%20Tools/), [Learning Materials on Homomorphic Encryption](./General%20Resources/Learning%20Materials) and Other Resources in [General Resources](./General%20Resources).
