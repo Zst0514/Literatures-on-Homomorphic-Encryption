@@ -254,11 +254,11 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Cao X, Moore C, O'Neill M, et al.* [[Paper]](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/17271213/Optimised_Mult_Archs_FHE_Final.pdf)
   
-* [**T-C 2016**] [**FHE**]  Custom Accelerator for Homomorphic Encryption Applications
+* [**T-C 2016**] [**FHE**] A Custom Accelerator for Homomorphic Encryption Applications
 
   >*Erdinc Ozturk, Yarkın Doroz, Erkay Savas.*[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7482844)
   
-* [**DSD 2013**] [**NTT**] Evaluating the Hardware Performance of a Million-Bit Multiplier.
+* s[**DSD 2013**] [**NTT**] Evaluating the Hardware Performance of a Million-Bit Multiplier.
 
   >*Y. Doroz, E. Ozturk, and B. Sunar* [[Paper]](https://ieeexplore.ieee.org/document/6628381)
 
