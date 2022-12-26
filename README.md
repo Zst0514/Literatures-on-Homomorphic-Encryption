@@ -179,9 +179,11 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Togan M, Pleşca C* [[Paper]](https://scholar.google.com/scholar?cluster=10454670174768971220&hl=zh-CN&as_sdt=0,5&as_vis=1)
 
-* [**DCC 2014**] [**FHE**] Fully Homomorphic SIMD Operations.
+* [**DCC 2014**] [**FHE SIMD**] Fully Homomorphic SIMD Operations.
 
   >*N.P. Smart and F. Vercauteren* [[Paper]](https://www.researchgate.net/profile/Petter-Smart/publication/220334118_Fully_homomorphic_SIMD_operations/links/56f1f14308ae1cb29a3d1dbd/Fully-homomorphic-SIMD-operations.pdf)
+
+
 
 ## **System Designs** for Homomorphic Encryption
 
@@ -467,9 +469,9 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*van Dijk M, Gentry C, Halevi S, et al.* [[Paper]](https://luca-giuzzi.unibs.it/corsi/Support/papers-cryptography/616.pdf)
   
-* [**IACR Cryptology ePrint Archive 2012**] [**the BFV scheme**] Somewhat Practical Fully Homomorphic Encryption.
+* [**EUROCRYPT 2010**] [**the BFV scheme**] Fully Homomorphic Encryption without Modulus Switching from Classical GapSVP.
 
-  >*Junfeng Fan, Frederik Vercauteren* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_2)
+  >*Zvika Brakerski* [[Paper]](https://www.iacr.org/archive/crypto2012/74170863/74170863.pdf)
   
 * [**Crypto 2013**] [**the GSW scheme**] Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based.
 
@@ -490,6 +492,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**Journal of Cryptology 2020**] [**the TFHE scheme**] Fast Fully Homomorphic Encryption over the Torus.
 
   >*Chillotti, Ilaria, et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3166.pdf) 
+
+
 
 ---
 ## **Maintainers**
